@@ -11,3 +11,9 @@ Test case 4: circuit4.tar.gz
 
 Test case 5: circuit5.tar.gz 
 
+
+-------------------revise May 3, 2018------------------------
+
+Fixed format problem in process.dat. You can redownload all the cases or only downlaod process.dat, and use it to overwrite old process.dat  in each case.
+
+
