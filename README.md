@@ -16,4 +16,17 @@ Test case 5: circuit5.tar.gz
 
 Fixed format problem in process.dat. You can redownload all the cases or only downlaod process.dat, and use it to overwrite old process.dat  in each case.
 
+-------------------- Update July 29, 2018-----------------------
 
+Removed all via enclosures in the cut file. Please use the .cut file inside circuitcut.tar.gz to replace the old cut files.
+New cut files:
+
+circuit1.cut.tar.gz
+
+circuit2.cut.tar.gz
+
+circuit3.cut.tar.gz
+
+circuit4.cut.tar.gz
+
+circuit5.cut.tar.gz
